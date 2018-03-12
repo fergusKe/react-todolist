@@ -1,5 +1,6 @@
 {
-  "name": "react-todolist",
+  "name": "fergus",
+  "homepage": "https://fergusKe.github.io/react-todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
